@@ -1,0 +1,60 @@
+##### Written on 2024/02/26 16:09:50 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PG2L50H-6FBG484
+
+Top Module : 
+	eth_udp_loop
+
+Constraint File(s) : 
+	E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 7 critical warning(s), 0 warning(s), out of 91 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:eth_txd[2]} {PAP_IO_LOC} {T20}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 94)] | Port eth_txd[2] has been placed at location T20, whose type is share pin.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_LOC} {W21}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 101)] | Port eth_txd[1] has been placed at location W21, whose type is share pin.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_LOC} {W22}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 108)] | Port eth_txd[0] has been placed at location W22, whose type is share pin.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_LOC} {AB22}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 120)] | Port eth_rxd[2] has been placed at location AB22, whose type is share pin.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_LOC} {AB21}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 125)] | Port eth_rxd[1] has been placed at location AB21, whose type is share pin.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_LOC} {Y22}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 130)] | Port eth_rxd[0] has been placed at location Y22, whose type is share pin.
+
+define_attribute {p:eth_rst_n} {PAP_IO_LOC} {N20}
+	C: ConstraintEditor-2002: [E:/H100licheng/50h/52_eth_udp_loop/prj/eth_udp_loop.fdc(line number: 135)] | Port eth_rst_n has been placed at location N20, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

@@ -1,0 +1,942 @@
+[Info] [2023-9-20 10:27:52] /***************************Start Configuration***************************/
+[Info] [2023-9-20 10:27:52] Path: D:/PDS_2022.2-SP4.2-ads/bin
+[Info] [2023-9-20 10:27:52] Version: 132111
+[Info] [2023-9-20 10:27:53] Current Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-20 10:27:53] PDS Dir Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-20 10:27:57] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-9-20 10:27:57] Client Local host name:DESKTOP-OE2QKLR
+[Debug] [2023-9-20 10:27:57] Client Local Address:192.168.1.102
+[Debug] [2023-9-20 10:27:57] Client Local Address:192.168.5.1
+[Debug] [2023-9-20 10:27:57] Client Local Address:192.168.1.1
+[Debug] [2023-9-20 10:27:57] Client Local Address:192.168.2.128
+[Debug] [2023-9-20 10:27:57] Server Address:127.0.0.1, Port:65420
+[Info] [2023-9-20 10:27:57] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-9-20 10:27:57] Finish.
+[Info] [2023-9-20 10:27:57] Connect server succeeded
+[Debug] [2023-9-20 10:27:57] Send RPC:1
+[Debug] [2023-9-20 10:27:57] Send cmd [check version information:40004] OK
+[Debug] [2023-9-20 10:27:58] Send RPC:2
+[Debug] [2023-9-20 10:27:58] Send cmd [get_cable_paras:40010] OK
+[Debug] [2023-9-20 10:27:58] Begin to send initialize chain cmd...
+[Debug] [2023-9-20 10:27:58] Send RPC:3
+[Debug] [2023-9-20 10:27:58] Send cmd [Open config cable:20001] OK
+[Debug] [2023-9-20 10:27:58] End to send initialize chain cmd.
+[Debug] [2023-9-20 10:27:58] COMMAND[check version information] execute successfully, takes 1.0 secs.
+[Debug] [2023-9-20 10:28:00] COMMAND[get_cable_paras] execute successfully, takes 1.6 secs.
+[Debug] [2023-9-20 10:28:01] begin the exec of open cable cmd...
+[Debug] [2023-9-20 10:28:01] Begin to deal with chain from server...
+[Debug] [2023-9-20 10:28:01] Begin to set user chain...
+[Debug] [2023-9-20 10:28:01] End to set user chain.
+[Debug] [2023-9-20 10:28:01] Begin to update graphic item and tree item ...
+[Debug] [2023-9-20 10:28:01] End to update graphic item and tree item ...
+[Info] [2023-9-20 10:28:03] set OpenLastPath: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2023-9-20 10:28:03] begin to get device info from CFG file...
+[Debug] [2023-9-20 10:28:03] end to get device info from CFG file...
+[Debug] [2023-9-20 10:28:03] Begin to update graphic item and tree item ...
+[Debug] [2023-9-20 10:28:03] End to update graphic item and tree item ...
+[Debug] [2023-9-20 10:28:03] Begin to update graphic item and tree item ...
+[Debug] [2023-9-20 10:28:03] End to update graphic item and tree item ...
+[Debug] [2023-9-20 10:28:03] End to deal wiht chain from server.
+[Debug] [2023-9-20 10:28:03] end the exec of open cable cmd.
+[Debug] [2023-9-20 10:28:03] COMMAND[Open config cable] execute successfully, takes 4.7 secs.
+[Debug] [2023-9-20 10:28:04] Begin to send programming cmd...
+[Debug] [2023-9-20 10:28:04] Send RPC:4
+[Debug] [2023-9-20 10:28:04] Begin to send program data.
+[Debug] [2023-9-20 10:28:04] End to send program data.
+[Debug] [2023-9-20 10:28:04] Send cmd [Program:20002] OK
+[Debug] [2023-9-20 10:28:05] The value of Progress is 6
+[Debug] [2023-9-20 10:28:05] The value of Progress is 10
+[Debug] [2023-9-20 10:28:05] The value of Progress is 15
+[Debug] [2023-9-20 10:28:05] The value of Progress is 20
+[Debug] [2023-9-20 10:28:05] The value of Progress is 25
+[Debug] [2023-9-20 10:28:05] The value of Progress is 30
+[Debug] [2023-9-20 10:28:05] The value of Progress is 35
+[Debug] [2023-9-20 10:28:05] The value of Progress is 40
+[Debug] [2023-9-20 10:28:05] The value of Progress is 45
+[Debug] [2023-9-20 10:28:05] The value of Progress is 50
+[Debug] [2023-9-20 10:28:05] The value of Progress is 55
+[Debug] [2023-9-20 10:28:05] The value of Progress is 60
+[Debug] [2023-9-20 10:28:05] The value of Progress is 65
+[Debug] [2023-9-20 10:28:05] The value of Progress is 70
+[Debug] [2023-9-20 10:28:05] The value of Progress is 75
+[Debug] [2023-9-20 10:28:05] The value of Progress is 80
+[Debug] [2023-9-20 10:28:05] The value of Progress is 85
+[Debug] [2023-9-20 10:28:05] The value of Progress is 90
+[Debug] [2023-9-20 10:28:05] The value of Progress is 95
+[Debug] [2023-9-20 10:28:05] The value of Progress is 100
+[Debug] [2023-9-20 10:28:06] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-20 10:28:06] End to send programming cmd.
+[Info] [2023-9-20 10:28:07] /***************************End Configration***************************/
+[Info] [2023-9-21 09:18:40] /***************************Start Configuration***************************/
+[Info] [2023-9-21 09:18:40] Path: D:/PDS_2022.2-SP4.2-ads/bin
+[Info] [2023-9-21 09:18:40] Version: 132111
+[Info] [2023-9-21 09:18:41] Current Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-21 09:18:41] PDS Dir Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-21 09:18:44] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-9-21 09:18:44] Client Local host name:DESKTOP-OE2QKLR
+[Debug] [2023-9-21 09:18:44] Client Local Address:192.168.5.1
+[Debug] [2023-9-21 09:18:44] Client Local Address:192.168.1.1
+[Debug] [2023-9-21 09:18:44] Client Local Address:192.168.2.128
+[Debug] [2023-9-21 09:18:44] Server Address:127.0.0.1, Port:65420
+[Info] [2023-9-21 09:18:45] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-9-21 09:18:45] Finish.
+[Info] [2023-9-21 09:18:45] Connect server succeeded
+[Debug] [2023-9-21 09:18:45] Send RPC:1
+[Debug] [2023-9-21 09:18:45] Send cmd [check version information:40004] OK
+[Debug] [2023-9-21 09:18:47] Send RPC:2
+[Debug] [2023-9-21 09:18:47] Send cmd [get_cable_paras:40010] OK
+[Debug] [2023-9-21 09:18:47] Begin to send initialize chain cmd...
+[Debug] [2023-9-21 09:18:47] Send RPC:3
+[Debug] [2023-9-21 09:18:47] Send cmd [Open config cable:20001] OK
+[Debug] [2023-9-21 09:18:47] End to send initialize chain cmd.
+[Debug] [2023-9-21 09:18:47] COMMAND[check version information] execute successfully, takes 1.9 secs.
+[Debug] [2023-9-21 09:18:49] COMMAND[get_cable_paras] execute successfully, takes 2.3 secs.
+[Debug] [2023-9-21 09:18:50] begin the exec of open cable cmd...
+[Debug] [2023-9-21 09:18:50] Begin to deal with chain from server...
+[Debug] [2023-9-21 09:18:50] Begin to set user chain...
+[Debug] [2023-9-21 09:18:50] End to set user chain.
+[Debug] [2023-9-21 09:18:50] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 09:18:50] End to update graphic item and tree item ...
+[Info] [2023-9-21 09:18:53] set OpenLastPath: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2023-9-21 09:18:53] begin to get device info from CFG file...
+[Debug] [2023-9-21 09:18:53] end to get device info from CFG file...
+[Debug] [2023-9-21 09:18:53] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 09:18:53] End to update graphic item and tree item ...
+[Debug] [2023-9-21 09:18:53] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 09:18:53] End to update graphic item and tree item ...
+[Debug] [2023-9-21 09:18:53] End to deal wiht chain from server.
+[Debug] [2023-9-21 09:18:53] end the exec of open cable cmd.
+[Debug] [2023-9-21 09:18:53] COMMAND[Open config cable] execute successfully, takes 6.2 secs.
+[Debug] [2023-9-21 09:18:55] Begin to send programming cmd...
+[Debug] [2023-9-21 09:18:55] Send RPC:4
+[Debug] [2023-9-21 09:18:55] Begin to send program data.
+[Debug] [2023-9-21 09:18:55] End to send program data.
+[Debug] [2023-9-21 09:18:55] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:18:55] The value of Progress is 6
+[Debug] [2023-9-21 09:18:55] The value of Progress is 10
+[Debug] [2023-9-21 09:18:55] The value of Progress is 15
+[Debug] [2023-9-21 09:18:55] The value of Progress is 20
+[Debug] [2023-9-21 09:18:55] The value of Progress is 25
+[Debug] [2023-9-21 09:18:55] The value of Progress is 30
+[Debug] [2023-9-21 09:18:56] The value of Progress is 35
+[Debug] [2023-9-21 09:18:56] The value of Progress is 40
+[Debug] [2023-9-21 09:18:56] The value of Progress is 45
+[Debug] [2023-9-21 09:18:56] The value of Progress is 50
+[Debug] [2023-9-21 09:18:56] The value of Progress is 55
+[Debug] [2023-9-21 09:18:56] The value of Progress is 60
+[Debug] [2023-9-21 09:18:56] The value of Progress is 65
+[Debug] [2023-9-21 09:18:56] The value of Progress is 70
+[Debug] [2023-9-21 09:18:56] The value of Progress is 75
+[Debug] [2023-9-21 09:18:56] The value of Progress is 80
+[Debug] [2023-9-21 09:18:56] The value of Progress is 85
+[Debug] [2023-9-21 09:18:56] The value of Progress is 90
+[Debug] [2023-9-21 09:18:56] The value of Progress is 95
+[Debug] [2023-9-21 09:18:56] The value of Progress is 100
+[Debug] [2023-9-21 09:18:56] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:18:56] End to send programming cmd.
+[Debug] [2023-9-21 09:20:23] Begin to send programming cmd...
+[Debug] [2023-9-21 09:20:23] Send RPC:5
+[Debug] [2023-9-21 09:20:23] Begin to send program data.
+[Debug] [2023-9-21 09:20:23] End to send program data.
+[Debug] [2023-9-21 09:20:23] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:20:24] The value of Progress is 6
+[Debug] [2023-9-21 09:20:24] The value of Progress is 10
+[Debug] [2023-9-21 09:20:24] The value of Progress is 15
+[Debug] [2023-9-21 09:20:24] The value of Progress is 20
+[Debug] [2023-9-21 09:20:24] The value of Progress is 25
+[Debug] [2023-9-21 09:20:24] The value of Progress is 30
+[Debug] [2023-9-21 09:20:24] The value of Progress is 35
+[Debug] [2023-9-21 09:20:24] The value of Progress is 40
+[Debug] [2023-9-21 09:20:24] The value of Progress is 45
+[Debug] [2023-9-21 09:20:24] The value of Progress is 50
+[Debug] [2023-9-21 09:20:24] The value of Progress is 55
+[Debug] [2023-9-21 09:20:24] The value of Progress is 60
+[Debug] [2023-9-21 09:20:24] The value of Progress is 65
+[Debug] [2023-9-21 09:20:25] The value of Progress is 70
+[Debug] [2023-9-21 09:20:25] The value of Progress is 75
+[Debug] [2023-9-21 09:20:25] The value of Progress is 80
+[Debug] [2023-9-21 09:20:25] The value of Progress is 85
+[Debug] [2023-9-21 09:20:25] The value of Progress is 90
+[Debug] [2023-9-21 09:20:25] The value of Progress is 95
+[Debug] [2023-9-21 09:20:25] The value of Progress is 100
+[Debug] [2023-9-21 09:20:25] COMMAND[Program] execute successfully, takes 1.8 secs.
+[Debug] [2023-9-21 09:20:25] End to send programming cmd.
+[Info] [2023-9-21 09:20:26] /***************************End Configration***************************/
+[Info] [2023-9-21 09:30:04] /***************************Start Configuration***************************/
+[Info] [2023-9-21 09:30:04] Path: D:/PDS_2022.2-SP4.2-ads/bin
+[Info] [2023-9-21 09:30:04] Version: 132111
+[Info] [2023-9-21 09:30:05] Current Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-21 09:30:05] PDS Dir Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-21 09:30:11] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-9-21 09:30:11] Client Local host name:DESKTOP-OE2QKLR
+[Debug] [2023-9-21 09:30:11] Client Local Address:192.168.1.102
+[Debug] [2023-9-21 09:30:11] Client Local Address:192.168.5.1
+[Debug] [2023-9-21 09:30:11] Client Local Address:192.168.1.1
+[Debug] [2023-9-21 09:30:11] Client Local Address:192.168.2.128
+[Debug] [2023-9-21 09:30:11] Server Address:127.0.0.1, Port:65420
+[Info] [2023-9-21 09:30:12] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-9-21 09:30:12] Finish.
+[Info] [2023-9-21 09:30:12] Connect server succeeded
+[Debug] [2023-9-21 09:30:12] Send RPC:1
+[Debug] [2023-9-21 09:30:12] Send cmd [check version information:40004] OK
+[Debug] [2023-9-21 09:30:13] Send RPC:2
+[Debug] [2023-9-21 09:30:13] Send cmd [get_cable_paras:40010] OK
+[Debug] [2023-9-21 09:30:13] Begin to send initialize chain cmd...
+[Debug] [2023-9-21 09:30:13] Send RPC:3
+[Debug] [2023-9-21 09:30:13] Send cmd [Open config cable:20001] OK
+[Debug] [2023-9-21 09:30:13] End to send initialize chain cmd.
+[Debug] [2023-9-21 09:30:13] COMMAND[check version information] execute successfully, takes 1.0 secs.
+[Debug] [2023-9-21 09:30:14] COMMAND[get_cable_paras] execute successfully, takes 1.7 secs.
+[Debug] [2023-9-21 09:30:15] begin the exec of open cable cmd...
+[Debug] [2023-9-21 09:30:15] Begin to deal with chain from server...
+[Debug] [2023-9-21 09:30:15] Begin to set user chain...
+[Debug] [2023-9-21 09:30:15] End to set user chain.
+[Debug] [2023-9-21 09:30:15] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 09:30:15] End to update graphic item and tree item ...
+[Info] [2023-9-21 09:30:34] set OpenLastPath: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2023-9-21 09:30:34] begin to get device info from CFG file...
+[Debug] [2023-9-21 09:30:34] end to get device info from CFG file...
+[Debug] [2023-9-21 09:30:34] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 09:30:34] End to update graphic item and tree item ...
+[Debug] [2023-9-21 09:30:34] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 09:30:34] End to update graphic item and tree item ...
+[Debug] [2023-9-21 09:30:34] End to deal wiht chain from server.
+[Debug] [2023-9-21 09:30:34] end the exec of open cable cmd.
+[Debug] [2023-9-21 09:30:34] COMMAND[Open config cable] execute successfully, takes 21.6 secs.
+[Debug] [2023-9-21 09:30:36] Begin to send programming cmd...
+[Debug] [2023-9-21 09:30:36] Send RPC:4
+[Debug] [2023-9-21 09:30:36] Begin to send program data.
+[Debug] [2023-9-21 09:30:36] End to send program data.
+[Debug] [2023-9-21 09:30:36] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:30:36] The value of Progress is 6
+[Debug] [2023-9-21 09:30:36] The value of Progress is 10
+[Debug] [2023-9-21 09:30:36] The value of Progress is 15
+[Debug] [2023-9-21 09:30:37] The value of Progress is 20
+[Debug] [2023-9-21 09:30:37] The value of Progress is 25
+[Debug] [2023-9-21 09:30:37] The value of Progress is 30
+[Debug] [2023-9-21 09:30:37] The value of Progress is 35
+[Debug] [2023-9-21 09:30:37] The value of Progress is 40
+[Debug] [2023-9-21 09:30:37] The value of Progress is 45
+[Debug] [2023-9-21 09:30:37] The value of Progress is 50
+[Debug] [2023-9-21 09:30:37] The value of Progress is 55
+[Debug] [2023-9-21 09:30:37] The value of Progress is 60
+[Debug] [2023-9-21 09:30:37] The value of Progress is 65
+[Debug] [2023-9-21 09:30:37] The value of Progress is 70
+[Debug] [2023-9-21 09:30:37] The value of Progress is 75
+[Debug] [2023-9-21 09:30:37] The value of Progress is 80
+[Debug] [2023-9-21 09:30:37] The value of Progress is 85
+[Debug] [2023-9-21 09:30:37] The value of Progress is 90
+[Debug] [2023-9-21 09:30:37] The value of Progress is 95
+[Debug] [2023-9-21 09:30:37] The value of Progress is 100
+[Debug] [2023-9-21 09:30:37] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:30:37] End to send programming cmd.
+[Debug] [2023-9-21 09:32:14] Begin to send programming cmd...
+[Debug] [2023-9-21 09:32:14] Send RPC:5
+[Debug] [2023-9-21 09:32:14] Begin to send program data.
+[Debug] [2023-9-21 09:32:14] End to send program data.
+[Debug] [2023-9-21 09:32:14] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:32:14] The value of Progress is 6
+[Debug] [2023-9-21 09:32:14] The value of Progress is 10
+[Debug] [2023-9-21 09:32:14] The value of Progress is 15
+[Debug] [2023-9-21 09:32:14] The value of Progress is 20
+[Debug] [2023-9-21 09:32:14] The value of Progress is 25
+[Debug] [2023-9-21 09:32:14] The value of Progress is 30
+[Debug] [2023-9-21 09:32:15] The value of Progress is 35
+[Debug] [2023-9-21 09:32:15] The value of Progress is 40
+[Debug] [2023-9-21 09:32:15] The value of Progress is 45
+[Debug] [2023-9-21 09:32:15] The value of Progress is 50
+[Debug] [2023-9-21 09:32:15] The value of Progress is 55
+[Debug] [2023-9-21 09:32:15] The value of Progress is 60
+[Debug] [2023-9-21 09:32:15] The value of Progress is 65
+[Debug] [2023-9-21 09:32:15] The value of Progress is 70
+[Debug] [2023-9-21 09:32:15] The value of Progress is 75
+[Debug] [2023-9-21 09:32:15] The value of Progress is 80
+[Debug] [2023-9-21 09:32:15] The value of Progress is 85
+[Debug] [2023-9-21 09:32:15] The value of Progress is 90
+[Debug] [2023-9-21 09:32:15] The value of Progress is 95
+[Debug] [2023-9-21 09:32:15] The value of Progress is 100
+[Debug] [2023-9-21 09:32:15] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:32:15] End to send programming cmd.
+[Debug] [2023-9-21 09:33:40] Begin to send programming cmd...
+[Debug] [2023-9-21 09:33:40] Send RPC:6
+[Debug] [2023-9-21 09:33:40] Begin to send program data.
+[Debug] [2023-9-21 09:33:40] End to send program data.
+[Debug] [2023-9-21 09:33:40] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:33:41] The value of Progress is 6
+[Debug] [2023-9-21 09:33:41] The value of Progress is 10
+[Debug] [2023-9-21 09:33:41] The value of Progress is 15
+[Debug] [2023-9-21 09:33:41] The value of Progress is 20
+[Debug] [2023-9-21 09:33:41] The value of Progress is 25
+[Debug] [2023-9-21 09:33:41] The value of Progress is 30
+[Debug] [2023-9-21 09:33:41] The value of Progress is 35
+[Debug] [2023-9-21 09:33:41] The value of Progress is 40
+[Debug] [2023-9-21 09:33:41] The value of Progress is 45
+[Debug] [2023-9-21 09:33:41] The value of Progress is 50
+[Debug] [2023-9-21 09:33:41] The value of Progress is 55
+[Debug] [2023-9-21 09:33:41] The value of Progress is 60
+[Debug] [2023-9-21 09:33:41] The value of Progress is 65
+[Debug] [2023-9-21 09:33:41] The value of Progress is 70
+[Debug] [2023-9-21 09:33:41] The value of Progress is 75
+[Debug] [2023-9-21 09:33:42] The value of Progress is 80
+[Debug] [2023-9-21 09:33:42] The value of Progress is 85
+[Debug] [2023-9-21 09:33:42] The value of Progress is 90
+[Debug] [2023-9-21 09:33:42] The value of Progress is 95
+[Debug] [2023-9-21 09:33:42] The value of Progress is 100
+[Debug] [2023-9-21 09:33:42] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:33:42] End to send programming cmd.
+[Debug] [2023-9-21 09:34:55] Begin to send programming cmd...
+[Debug] [2023-9-21 09:34:55] Send RPC:7
+[Debug] [2023-9-21 09:34:55] Begin to send program data.
+[Debug] [2023-9-21 09:34:55] End to send program data.
+[Debug] [2023-9-21 09:34:55] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:34:55] The value of Progress is 6
+[Debug] [2023-9-21 09:34:55] The value of Progress is 10
+[Debug] [2023-9-21 09:34:55] The value of Progress is 15
+[Debug] [2023-9-21 09:34:56] The value of Progress is 20
+[Debug] [2023-9-21 09:34:56] The value of Progress is 25
+[Debug] [2023-9-21 09:34:56] The value of Progress is 30
+[Debug] [2023-9-21 09:34:56] The value of Progress is 35
+[Debug] [2023-9-21 09:34:56] The value of Progress is 40
+[Debug] [2023-9-21 09:34:56] The value of Progress is 45
+[Debug] [2023-9-21 09:34:56] The value of Progress is 50
+[Debug] [2023-9-21 09:34:56] The value of Progress is 55
+[Debug] [2023-9-21 09:34:56] The value of Progress is 60
+[Debug] [2023-9-21 09:34:56] The value of Progress is 65
+[Debug] [2023-9-21 09:34:56] The value of Progress is 70
+[Debug] [2023-9-21 09:34:56] The value of Progress is 75
+[Debug] [2023-9-21 09:34:56] The value of Progress is 80
+[Debug] [2023-9-21 09:34:56] The value of Progress is 85
+[Debug] [2023-9-21 09:34:56] The value of Progress is 90
+[Debug] [2023-9-21 09:34:56] The value of Progress is 95
+[Debug] [2023-9-21 09:34:56] The value of Progress is 100
+[Debug] [2023-9-21 09:34:56] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:34:56] End to send programming cmd.
+[Debug] [2023-9-21 09:36:04] Begin to send programming cmd...
+[Debug] [2023-9-21 09:36:04] Send RPC:8
+[Debug] [2023-9-21 09:36:04] Begin to send program data.
+[Debug] [2023-9-21 09:36:04] End to send program data.
+[Debug] [2023-9-21 09:36:04] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:36:04] The value of Progress is 6
+[Debug] [2023-9-21 09:36:04] The value of Progress is 10
+[Debug] [2023-9-21 09:36:04] The value of Progress is 15
+[Debug] [2023-9-21 09:36:05] The value of Progress is 20
+[Debug] [2023-9-21 09:36:05] The value of Progress is 25
+[Debug] [2023-9-21 09:36:05] The value of Progress is 30
+[Debug] [2023-9-21 09:36:05] The value of Progress is 35
+[Debug] [2023-9-21 09:36:05] The value of Progress is 40
+[Debug] [2023-9-21 09:36:05] The value of Progress is 45
+[Debug] [2023-9-21 09:36:05] The value of Progress is 50
+[Debug] [2023-9-21 09:36:05] The value of Progress is 55
+[Debug] [2023-9-21 09:36:05] The value of Progress is 60
+[Debug] [2023-9-21 09:36:05] The value of Progress is 65
+[Debug] [2023-9-21 09:36:05] The value of Progress is 70
+[Debug] [2023-9-21 09:36:05] The value of Progress is 75
+[Debug] [2023-9-21 09:36:05] The value of Progress is 80
+[Debug] [2023-9-21 09:36:05] The value of Progress is 85
+[Debug] [2023-9-21 09:36:05] The value of Progress is 90
+[Debug] [2023-9-21 09:36:05] The value of Progress is 95
+[Debug] [2023-9-21 09:36:05] The value of Progress is 100
+[Debug] [2023-9-21 09:36:05] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:36:05] End to send programming cmd.
+[Debug] [2023-9-21 09:36:49] Begin to send programming cmd...
+[Debug] [2023-9-21 09:36:49] Send RPC:9
+[Debug] [2023-9-21 09:36:49] Begin to send program data.
+[Debug] [2023-9-21 09:36:49] End to send program data.
+[Debug] [2023-9-21 09:36:49] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 09:36:49] The value of Progress is 6
+[Debug] [2023-9-21 09:36:49] The value of Progress is 10
+[Debug] [2023-9-21 09:36:49] The value of Progress is 15
+[Debug] [2023-9-21 09:36:49] The value of Progress is 20
+[Debug] [2023-9-21 09:36:50] The value of Progress is 25
+[Debug] [2023-9-21 09:36:50] The value of Progress is 30
+[Debug] [2023-9-21 09:36:50] The value of Progress is 35
+[Debug] [2023-9-21 09:36:50] The value of Progress is 40
+[Debug] [2023-9-21 09:36:50] The value of Progress is 45
+[Debug] [2023-9-21 09:36:50] The value of Progress is 50
+[Debug] [2023-9-21 09:36:50] The value of Progress is 55
+[Debug] [2023-9-21 09:36:50] The value of Progress is 60
+[Debug] [2023-9-21 09:36:50] The value of Progress is 65
+[Debug] [2023-9-21 09:36:50] The value of Progress is 70
+[Debug] [2023-9-21 09:36:50] The value of Progress is 75
+[Debug] [2023-9-21 09:36:50] The value of Progress is 80
+[Debug] [2023-9-21 09:36:50] The value of Progress is 85
+[Debug] [2023-9-21 09:36:50] The value of Progress is 90
+[Debug] [2023-9-21 09:36:50] The value of Progress is 95
+[Debug] [2023-9-21 09:36:50] The value of Progress is 100
+[Debug] [2023-9-21 09:36:50] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 09:36:50] End to send programming cmd.
+[Info] [2023-9-21 09:37:01] /***************************End Configration***************************/
+[Info] [2023-9-21 17:39:25] /***************************Start Configuration***************************/
+[Info] [2023-9-21 17:39:25] Path: D:/PDS_2022.2-SP4.2-ads/bin
+[Info] [2023-9-21 17:39:25] Version: 132111
+[Info] [2023-9-21 17:39:26] Current Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-21 17:39:26] PDS Dir Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-9-21 17:39:28] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-9-21 17:39:28] Client Local host name:DESKTOP-OE2QKLR
+[Debug] [2023-9-21 17:39:28] Client Local Address:192.168.1.102
+[Debug] [2023-9-21 17:39:28] Client Local Address:192.168.5.1
+[Debug] [2023-9-21 17:39:28] Client Local Address:192.168.1.1
+[Debug] [2023-9-21 17:39:28] Client Local Address:172.20.10.11
+[Debug] [2023-9-21 17:39:28] Server Address:127.0.0.1, Port:65420
+[Info] [2023-9-21 17:39:28] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-9-21 17:39:28] Finish.
+[Info] [2023-9-21 17:39:28] Connect server succeeded
+[Debug] [2023-9-21 17:39:28] Send RPC:1
+[Debug] [2023-9-21 17:39:28] Send cmd [check version information:40004] OK
+[Debug] [2023-9-21 17:39:29] Send RPC:2
+[Debug] [2023-9-21 17:39:29] Send cmd [get_cable_paras:40010] OK
+[Debug] [2023-9-21 17:39:29] Begin to send initialize chain cmd...
+[Debug] [2023-9-21 17:39:29] Send RPC:3
+[Debug] [2023-9-21 17:39:29] Send cmd [Open config cable:20001] OK
+[Debug] [2023-9-21 17:39:29] End to send initialize chain cmd.
+[Debug] [2023-9-21 17:39:29] COMMAND[check version information] execute successfully, takes 0.9 secs.
+[Debug] [2023-9-21 17:39:31] COMMAND[get_cable_paras] execute successfully, takes 1.6 secs.
+[Debug] [2023-9-21 17:39:31] begin the exec of open cable cmd...
+[Debug] [2023-9-21 17:39:31] Begin to deal with chain from server...
+[Debug] [2023-9-21 17:39:31] Begin to set user chain...
+[Debug] [2023-9-21 17:39:31] End to set user chain.
+[Debug] [2023-9-21 17:39:31] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 17:39:31] End to update graphic item and tree item ...
+[Info] [2023-9-21 17:39:33] set OpenLastPath: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2023-9-21 17:39:33] begin to get device info from CFG file...
+[Debug] [2023-9-21 17:39:33] end to get device info from CFG file...
+[Debug] [2023-9-21 17:39:33] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 17:39:33] End to update graphic item and tree item ...
+[Debug] [2023-9-21 17:39:33] Begin to update graphic item and tree item ...
+[Debug] [2023-9-21 17:39:33] End to update graphic item and tree item ...
+[Debug] [2023-9-21 17:39:33] End to deal wiht chain from server.
+[Debug] [2023-9-21 17:39:33] end the exec of open cable cmd.
+[Debug] [2023-9-21 17:39:33] COMMAND[Open config cable] execute successfully, takes 3.8 secs.
+[Debug] [2023-9-21 17:39:34] Begin to send programming cmd...
+[Debug] [2023-9-21 17:39:34] Send RPC:4
+[Debug] [2023-9-21 17:39:34] Begin to send program data.
+[Debug] [2023-9-21 17:39:34] End to send program data.
+[Debug] [2023-9-21 17:39:34] Send cmd [Program:20002] OK
+[Debug] [2023-9-21 17:39:35] The value of Progress is 6
+[Debug] [2023-9-21 17:39:35] The value of Progress is 10
+[Debug] [2023-9-21 17:39:35] The value of Progress is 15
+[Debug] [2023-9-21 17:39:35] The value of Progress is 20
+[Debug] [2023-9-21 17:39:35] The value of Progress is 25
+[Debug] [2023-9-21 17:39:35] The value of Progress is 30
+[Debug] [2023-9-21 17:39:35] The value of Progress is 35
+[Debug] [2023-9-21 17:39:35] The value of Progress is 40
+[Debug] [2023-9-21 17:39:35] The value of Progress is 45
+[Debug] [2023-9-21 17:39:35] The value of Progress is 50
+[Debug] [2023-9-21 17:39:35] The value of Progress is 55
+[Debug] [2023-9-21 17:39:35] The value of Progress is 60
+[Debug] [2023-9-21 17:39:35] The value of Progress is 65
+[Debug] [2023-9-21 17:39:35] The value of Progress is 70
+[Debug] [2023-9-21 17:39:35] The value of Progress is 75
+[Debug] [2023-9-21 17:39:35] The value of Progress is 80
+[Debug] [2023-9-21 17:39:35] The value of Progress is 85
+[Debug] [2023-9-21 17:39:35] The value of Progress is 90
+[Debug] [2023-9-21 17:39:35] The value of Progress is 95
+[Debug] [2023-9-21 17:39:35] The value of Progress is 100
+[Debug] [2023-9-21 17:39:35] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-9-21 17:39:35] End to send programming cmd.
+[Info] [2023-9-21 17:40:23] /***************************End Configration***************************/
+[Info] [2023-10-9 19:37:55] /***************************Start Configuration***************************/
+[Info] [2023-10-9 19:37:55] Path: D:/PDS_2022.2-SP4.2-ads/bin
+[Info] [2023-10-9 19:37:55] Version: 132111
+[Info] [2023-10-9 19:37:56] Current Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-10-9 19:37:56] PDS Dir Path: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj
+[Info] [2023-10-9 19:37:58] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-9 19:37:58] Client Local host name:DESKTOP-OE2QKLR
+[Debug] [2023-10-9 19:37:58] Client Local Address:192.168.1.102
+[Debug] [2023-10-9 19:37:58] Client Local Address:192.168.5.1
+[Debug] [2023-10-9 19:37:58] Client Local Address:192.168.1.1
+[Debug] [2023-10-9 19:37:58] Client Local Address:192.168.2.128
+[Debug] [2023-10-9 19:37:58] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-9 19:37:58] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-9 19:37:58] Finish.
+[Info] [2023-10-9 19:37:58] Connect server succeeded
+[Debug] [2023-10-9 19:37:58] Send RPC:1
+[Debug] [2023-10-9 19:37:58] Send cmd [check version information:40004] OK
+[Debug] [2023-10-9 19:38:00] Send RPC:2
+[Debug] [2023-10-9 19:38:00] Send cmd [get_cable_paras:40010] OK
+[Debug] [2023-10-9 19:38:00] Begin to send initialize chain cmd...
+[Debug] [2023-10-9 19:38:00] Send RPC:3
+[Debug] [2023-10-9 19:38:00] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-9 19:38:00] End to send initialize chain cmd.
+[Debug] [2023-10-9 19:38:00] COMMAND[check version information] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-9 19:38:03] COMMAND[get_cable_paras] execute successfully, takes 2.2 secs.
+[Debug] [2023-10-9 19:38:04] begin the exec of open cable cmd...
+[Debug] [2023-10-9 19:38:04] Begin to deal with chain from server...
+[Debug] [2023-10-9 19:38:04] Begin to set user chain...
+[Debug] [2023-10-9 19:38:04] End to set user chain.
+[Debug] [2023-10-9 19:38:04] Begin to update graphic item and tree item ...
+[Debug] [2023-10-9 19:38:04] End to update graphic item and tree item ...
+[Info] [2023-10-9 19:38:05] set OpenLastPath: C:/Users/Admin/Desktop/25G/4_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2023-10-9 19:38:05] begin to get device info from CFG file...
+[Debug] [2023-10-9 19:38:05] end to get device info from CFG file...
+[Debug] [2023-10-9 19:38:05] Begin to update graphic item and tree item ...
+[Debug] [2023-10-9 19:38:05] End to update graphic item and tree item ...
+[Debug] [2023-10-9 19:38:05] Begin to update graphic item and tree item ...
+[Debug] [2023-10-9 19:38:05] End to update graphic item and tree item ...
+[Debug] [2023-10-9 19:38:05] End to deal wiht chain from server.
+[Debug] [2023-10-9 19:38:05] end the exec of open cable cmd.
+[Debug] [2023-10-9 19:38:05] COMMAND[Open config cable] execute successfully, takes 4.8 secs.
+[Debug] [2023-10-9 19:38:06] Begin to send programming cmd...
+[Debug] [2023-10-9 19:38:06] Send RPC:4
+[Debug] [2023-10-9 19:38:06] Begin to send program data.
+[Debug] [2023-10-9 19:38:06] End to send program data.
+[Debug] [2023-10-9 19:38:06] Send cmd [Program:20002] OK
+[Debug] [2023-10-9 19:38:07] The value of Progress is 6
+[Debug] [2023-10-9 19:38:07] The value of Progress is 10
+[Debug] [2023-10-9 19:38:07] The value of Progress is 15
+[Debug] [2023-10-9 19:38:07] The value of Progress is 20
+[Debug] [2023-10-9 19:38:07] The value of Progress is 25
+[Debug] [2023-10-9 19:38:07] The value of Progress is 30
+[Debug] [2023-10-9 19:38:07] The value of Progress is 35
+[Debug] [2023-10-9 19:38:07] The value of Progress is 40
+[Debug] [2023-10-9 19:38:07] The value of Progress is 45
+[Debug] [2023-10-9 19:38:07] The value of Progress is 50
+[Debug] [2023-10-9 19:38:07] The value of Progress is 55
+[Debug] [2023-10-9 19:38:07] The value of Progress is 60
+[Debug] [2023-10-9 19:38:07] The value of Progress is 65
+[Debug] [2023-10-9 19:38:07] The value of Progress is 70
+[Debug] [2023-10-9 19:38:07] The value of Progress is 75
+[Debug] [2023-10-9 19:38:07] The value of Progress is 80
+[Debug] [2023-10-9 19:38:07] The value of Progress is 85
+[Debug] [2023-10-9 19:38:07] The value of Progress is 90
+[Debug] [2023-10-9 19:38:07] The value of Progress is 95
+[Debug] [2023-10-9 19:38:07] The value of Progress is 100
+[Debug] [2023-10-9 19:38:08] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2023-10-9 19:38:08] End to send programming cmd.
+[Info] [2023-10-9 19:38:44] /***************************End Configration***************************/
+[Info] [2023-10-13 09:06:28] /***************************Start Configuration***************************/
+[Info] [2023-10-13 09:06:28] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2023-10-13 09:06:28] Version: 132111
+[Info] [2023-10-13 09:06:29] Current Path: D:/ywd/dps4/ccccccccccc/25G/4_eth_udp_loop/prj
+[Info] [2023-10-13 09:06:29] PDS Dir Path: D:/ywd/dps4/ccccccccccc/25G/4_eth_udp_loop/prj
+[Info] [2023-10-13 09:06:31] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-13 09:06:31] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2023-10-13 09:06:31] Client Local Address:192.168.1.102
+[Debug] [2023-10-13 09:06:31] Client Local Address:192.168.2.148
+[Debug] [2023-10-13 09:06:31] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-13 09:06:31] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-13 09:06:31] Finish.
+[Info] [2023-10-13 09:06:31] Connect server succeeded
+[Debug] [2023-10-13 09:06:31] Send RPC:1
+[Debug] [2023-10-13 09:06:31] Send cmd [check version information:40004] OK
+[Debug] [2023-10-13 09:06:31] Send RPC:2
+[Debug] [2023-10-13 09:06:31] Send cmd [get_cable_paras:40010] OK
+[Debug] [2023-10-13 09:06:31] Begin to send initialize chain cmd...
+[Debug] [2023-10-13 09:06:31] Send RPC:3
+[Debug] [2023-10-13 09:06:31] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-13 09:06:31] End to send initialize chain cmd.
+[Debug] [2023-10-13 09:06:31] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-13 09:06:32] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2023-10-13 09:06:33] begin the exec of open cable cmd...
+[Debug] [2023-10-13 09:06:33] Begin to deal with chain from server...
+[Debug] [2023-10-13 09:06:33] Begin to set user chain...
+[Debug] [2023-10-13 09:06:33] End to set user chain.
+[Debug] [2023-10-13 09:06:33] Begin to update graphic item and tree item ...
+[Debug] [2023-10-13 09:06:33] End to update graphic item and tree item ...
+[Info] [2023-10-13 09:06:34] set OpenLastPath: D:/ywd/dps4/ccccccccccc/25G/4_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2023-10-13 09:06:34] begin to get device info from CFG file...
+[Debug] [2023-10-13 09:06:34] end to get device info from CFG file...
+[Debug] [2023-10-13 09:06:34] Begin to update graphic item and tree item ...
+[Debug] [2023-10-13 09:06:34] End to update graphic item and tree item ...
+[Debug] [2023-10-13 09:06:34] Begin to update graphic item and tree item ...
+[Debug] [2023-10-13 09:06:34] End to update graphic item and tree item ...
+[Debug] [2023-10-13 09:06:34] End to deal wiht chain from server.
+[Debug] [2023-10-13 09:06:34] end the exec of open cable cmd.
+[Debug] [2023-10-13 09:06:34] COMMAND[Open config cable] execute successfully, takes 2.8 secs.
+[Debug] [2023-10-13 09:06:36] Begin to send programming cmd...
+[Debug] [2023-10-13 09:06:36] Send RPC:4
+[Debug] [2023-10-13 09:06:36] Begin to send program data.
+[Debug] [2023-10-13 09:06:36] End to send program data.
+[Debug] [2023-10-13 09:06:36] Send cmd [Program:20002] OK
+[Debug] [2023-10-13 09:06:36] The value of Progress is 6
+[Debug] [2023-10-13 09:06:36] The value of Progress is 10
+[Debug] [2023-10-13 09:06:36] The value of Progress is 15
+[Debug] [2023-10-13 09:06:36] The value of Progress is 20
+[Debug] [2023-10-13 09:06:37] The value of Progress is 25
+[Debug] [2023-10-13 09:06:37] The value of Progress is 30
+[Debug] [2023-10-13 09:06:37] The value of Progress is 35
+[Debug] [2023-10-13 09:06:37] The value of Progress is 40
+[Debug] [2023-10-13 09:06:37] The value of Progress is 45
+[Debug] [2023-10-13 09:06:37] The value of Progress is 50
+[Debug] [2023-10-13 09:06:37] The value of Progress is 55
+[Debug] [2023-10-13 09:06:37] The value of Progress is 60
+[Debug] [2023-10-13 09:06:37] The value of Progress is 65
+[Debug] [2023-10-13 09:06:37] The value of Progress is 70
+[Debug] [2023-10-13 09:06:37] The value of Progress is 75
+[Debug] [2023-10-13 09:06:37] The value of Progress is 80
+[Debug] [2023-10-13 09:06:37] The value of Progress is 85
+[Debug] [2023-10-13 09:06:37] The value of Progress is 90
+[Debug] [2023-10-13 09:06:37] The value of Progress is 95
+[Debug] [2023-10-13 09:06:37] The value of Progress is 100
+[Debug] [2023-10-13 09:06:37] COMMAND[Program] execute successfully, takes 1.2 secs.
+[Debug] [2023-10-13 09:06:37] End to send programming cmd.
+[Info] [2023-10-13 09:06:38] /***************************End Configration***************************/
+[Info] [2024-1-31 15:34:23] /***************************Start Configuration***************************/
+[Info] [2024-1-31 15:34:23] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-1-31 15:34:23] Version: 132111
+[Info] [2024-1-31 15:34:24] Current Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 15:34:24] PDS Dir Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 15:34:27] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-1-31 15:34:27] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2024-1-31 15:34:27] Client Local Address:192.168.1.102
+[Debug] [2024-1-31 15:34:27] Client Local Address:192.168.2.148
+[Debug] [2024-1-31 15:34:27] Server Address:127.0.0.1, Port:65420
+[Info] [2024-1-31 15:34:27] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-1-31 15:34:27] Finish.
+[Info] [2024-1-31 15:34:27] Connect server succeeded
+[Debug] [2024-1-31 15:34:27] Send RPC:1
+[Debug] [2024-1-31 15:34:27] Send cmd [check version information:40004] OK
+[Debug] [2024-1-31 15:34:28] Send RPC:2
+[Debug] [2024-1-31 15:34:28] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-1-31 15:34:28] Begin to send initialize chain cmd...
+[Debug] [2024-1-31 15:34:28] Send RPC:3
+[Debug] [2024-1-31 15:34:28] Send cmd [Open config cable:20001] OK
+[Debug] [2024-1-31 15:34:28] End to send initialize chain cmd.
+[Debug] [2024-1-31 15:34:28] COMMAND[check version information] execute successfully, takes 0.6 secs.
+[Debug] [2024-1-31 15:34:29] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2024-1-31 15:34:29] begin the exec of open cable cmd...
+[Debug] [2024-1-31 15:34:29] Begin to deal with chain from server...
+[Debug] [2024-1-31 15:34:29] Begin to set user chain...
+[Debug] [2024-1-31 15:34:29] End to set user chain.
+[Debug] [2024-1-31 15:34:29] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 15:34:29] End to update graphic item and tree item ...
+[Info] [2024-1-31 15:34:32] set OpenLastPath: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2024-1-31 15:34:32] begin to get device info from CFG file...
+[Debug] [2024-1-31 15:34:32] end to get device info from CFG file...
+[Debug] [2024-1-31 15:34:32] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 15:34:32] End to update graphic item and tree item ...
+[Debug] [2024-1-31 15:34:32] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 15:34:32] End to update graphic item and tree item ...
+[Debug] [2024-1-31 15:34:32] End to deal wiht chain from server.
+[Debug] [2024-1-31 15:34:32] end the exec of open cable cmd.
+[Debug] [2024-1-31 15:34:32] COMMAND[Open config cable] execute successfully, takes 3.8 secs.
+[Debug] [2024-1-31 15:34:32] Begin to send programming cmd...
+[Debug] [2024-1-31 15:34:32] Send RPC:4
+[Debug] [2024-1-31 15:34:32] Begin to send program data.
+[Debug] [2024-1-31 15:34:32] End to send program data.
+[Debug] [2024-1-31 15:34:32] Send cmd [Program:20002] OK
+[Debug] [2024-1-31 15:34:33] The value of Progress is 6
+[Debug] [2024-1-31 15:34:33] The value of Progress is 10
+[Debug] [2024-1-31 15:34:33] The value of Progress is 15
+[Debug] [2024-1-31 15:34:33] The value of Progress is 20
+[Debug] [2024-1-31 15:34:34] The value of Progress is 25
+[Debug] [2024-1-31 15:34:34] The value of Progress is 30
+[Debug] [2024-1-31 15:34:34] The value of Progress is 35
+[Debug] [2024-1-31 15:34:34] The value of Progress is 40
+[Debug] [2024-1-31 15:34:34] The value of Progress is 45
+[Debug] [2024-1-31 15:34:35] The value of Progress is 50
+[Debug] [2024-1-31 15:34:35] The value of Progress is 55
+[Debug] [2024-1-31 15:34:35] The value of Progress is 60
+[Debug] [2024-1-31 15:34:35] The value of Progress is 65
+[Debug] [2024-1-31 15:34:35] The value of Progress is 70
+[Debug] [2024-1-31 15:34:36] The value of Progress is 75
+[Debug] [2024-1-31 15:34:36] The value of Progress is 80
+[Debug] [2024-1-31 15:34:36] The value of Progress is 85
+[Debug] [2024-1-31 15:34:36] The value of Progress is 90
+[Debug] [2024-1-31 15:34:36] The value of Progress is 95
+[Debug] [2024-1-31 15:34:37] The value of Progress is 100
+[Debug] [2024-1-31 15:34:37] COMMAND[Program] execute successfully, takes 4.1 secs.
+[Debug] [2024-1-31 15:34:37] End to send programming cmd.
+[Info] [2024-1-31 15:35:49] /***************************End Configration***************************/
+[Info] [2024-1-31 20:21:28] /***************************Start Configuration***************************/
+[Info] [2024-1-31 20:21:28] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-1-31 20:21:28] Version: 132111
+[Info] [2024-1-31 20:21:29] Current Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 20:21:29] PDS Dir Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 20:21:32] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-1-31 20:21:32] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2024-1-31 20:21:32] Client Local Address:192.168.1.102
+[Debug] [2024-1-31 20:21:32] Client Local Address:192.168.2.148
+[Debug] [2024-1-31 20:21:32] Server Address:127.0.0.1, Port:65420
+[Info] [2024-1-31 20:21:33] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-1-31 20:21:33] Finish.
+[Info] [2024-1-31 20:21:33] Connect server succeeded
+[Debug] [2024-1-31 20:21:33] Send RPC:1
+[Debug] [2024-1-31 20:21:33] Send cmd [check version information:40004] OK
+[Debug] [2024-1-31 20:21:34] Send RPC:2
+[Debug] [2024-1-31 20:21:34] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-1-31 20:21:34] Begin to send initialize chain cmd...
+[Debug] [2024-1-31 20:21:34] Send RPC:3
+[Debug] [2024-1-31 20:21:34] Send cmd [Open config cable:20001] OK
+[Debug] [2024-1-31 20:21:34] End to send initialize chain cmd.
+[Debug] [2024-1-31 20:21:34] COMMAND[check version information] execute successfully, takes 0.9 secs.
+[Debug] [2024-1-31 20:21:35] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2024-1-31 20:21:35] begin the exec of open cable cmd...
+[Debug] [2024-1-31 20:21:35] Begin to deal with chain from server...
+[Debug] [2024-1-31 20:21:35] Begin to set user chain...
+[Debug] [2024-1-31 20:21:35] End to set user chain.
+[Debug] [2024-1-31 20:21:35] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:21:35] End to update graphic item and tree item ...
+[Debug] [2024-1-31 20:21:42] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:21:42] End to update graphic item and tree item ...
+[Debug] [2024-1-31 20:21:42] End to deal wiht chain from server.
+[Debug] [2024-1-31 20:21:42] end the exec of open cable cmd.
+[Debug] [2024-1-31 20:21:42] COMMAND[Open config cable] execute successfully, takes 8.6 secs.
+[Info] [2024-1-31 20:21:44] /***************************End Configration***************************/
+[Info] [2024-1-31 20:22:11] /***************************Start Configuration***************************/
+[Info] [2024-1-31 20:22:11] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-1-31 20:22:11] Version: 132111
+[Info] [2024-1-31 20:22:12] Current Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 20:22:12] PDS Dir Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 20:22:14] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-1-31 20:22:14] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2024-1-31 20:22:14] Client Local Address:192.168.1.102
+[Debug] [2024-1-31 20:22:14] Client Local Address:192.168.2.148
+[Debug] [2024-1-31 20:22:14] Server Address:127.0.0.1, Port:65420
+[Info] [2024-1-31 20:22:15] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-1-31 20:22:15] Finish.
+[Info] [2024-1-31 20:22:15] Connect server succeeded
+[Debug] [2024-1-31 20:22:15] Send RPC:1
+[Debug] [2024-1-31 20:22:15] Send cmd [check version information:40004] OK
+[Debug] [2024-1-31 20:22:15] Send RPC:2
+[Debug] [2024-1-31 20:22:15] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-1-31 20:22:15] Begin to send initialize chain cmd...
+[Debug] [2024-1-31 20:22:15] Send RPC:3
+[Debug] [2024-1-31 20:22:15] Send cmd [Open config cable:20001] OK
+[Debug] [2024-1-31 20:22:15] End to send initialize chain cmd.
+[Debug] [2024-1-31 20:22:15] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2024-1-31 20:22:16] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2024-1-31 20:22:17] begin the exec of open cable cmd...
+[Debug] [2024-1-31 20:22:17] Begin to deal with chain from server...
+[Debug] [2024-1-31 20:22:17] Begin to set user chain...
+[Debug] [2024-1-31 20:22:17] End to set user chain.
+[Debug] [2024-1-31 20:22:17] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:22:17] End to update graphic item and tree item ...
+[Info] [2024-1-31 20:22:19] set OpenLastPath: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2024-1-31 20:22:19] begin to get device info from CFG file...
+[Debug] [2024-1-31 20:22:19] end to get device info from CFG file...
+[Debug] [2024-1-31 20:22:19] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:22:19] End to update graphic item and tree item ...
+[Debug] [2024-1-31 20:22:19] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:22:19] End to update graphic item and tree item ...
+[Debug] [2024-1-31 20:22:19] End to deal wiht chain from server.
+[Debug] [2024-1-31 20:22:19] end the exec of open cable cmd.
+[Debug] [2024-1-31 20:22:19] COMMAND[Open config cable] execute successfully, takes 3.3 secs.
+[Debug] [2024-1-31 20:22:20] Begin to send programming cmd...
+[Debug] [2024-1-31 20:22:20] Send RPC:4
+[Debug] [2024-1-31 20:22:20] Begin to send program data.
+[Debug] [2024-1-31 20:22:20] End to send program data.
+[Debug] [2024-1-31 20:22:20] Send cmd [Program:20002] OK
+[Debug] [2024-1-31 20:22:21] The value of Progress is 6
+[Debug] [2024-1-31 20:22:21] The value of Progress is 10
+[Debug] [2024-1-31 20:22:21] The value of Progress is 15
+[Debug] [2024-1-31 20:22:21] The value of Progress is 20
+[Debug] [2024-1-31 20:22:21] The value of Progress is 25
+[Debug] [2024-1-31 20:22:21] The value of Progress is 30
+[Debug] [2024-1-31 20:22:22] The value of Progress is 35
+[Debug] [2024-1-31 20:22:22] The value of Progress is 40
+[Debug] [2024-1-31 20:22:22] The value of Progress is 45
+[Debug] [2024-1-31 20:22:22] The value of Progress is 50
+[Debug] [2024-1-31 20:22:22] The value of Progress is 55
+[Debug] [2024-1-31 20:22:23] The value of Progress is 60
+[Debug] [2024-1-31 20:22:23] The value of Progress is 65
+[Debug] [2024-1-31 20:22:23] The value of Progress is 70
+[Debug] [2024-1-31 20:22:23] The value of Progress is 75
+[Debug] [2024-1-31 20:22:23] The value of Progress is 80
+[Debug] [2024-1-31 20:22:23] The value of Progress is 85
+[Debug] [2024-1-31 20:22:24] The value of Progress is 90
+[Debug] [2024-1-31 20:22:24] The value of Progress is 95
+[Debug] [2024-1-31 20:22:24] The value of Progress is 100
+[Debug] [2024-1-31 20:22:24] COMMAND[Program] execute successfully, takes 4.1 secs.
+[Debug] [2024-1-31 20:22:24] End to send programming cmd.
+[Info] [2024-1-31 20:29:43] /***************************End Configration***************************/
+[Info] [2024-1-31 20:29:48] /***************************Start Configuration***************************/
+[Info] [2024-1-31 20:29:48] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-1-31 20:29:48] Version: 132111
+[Info] [2024-1-31 20:29:49] Current Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 20:29:49] PDS Dir Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-1-31 20:29:52] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-1-31 20:29:52] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2024-1-31 20:29:52] Client Local Address:192.168.2.148
+[Debug] [2024-1-31 20:29:52] Server Address:127.0.0.1, Port:65420
+[Info] [2024-1-31 20:29:52] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-1-31 20:29:52] Finish.
+[Info] [2024-1-31 20:29:52] Connect server succeeded
+[Debug] [2024-1-31 20:29:52] Send RPC:1
+[Debug] [2024-1-31 20:29:52] Send cmd [check version information:40004] OK
+[Debug] [2024-1-31 20:29:53] Send RPC:2
+[Debug] [2024-1-31 20:29:53] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-1-31 20:29:53] Begin to send initialize chain cmd...
+[Debug] [2024-1-31 20:29:53] Send RPC:3
+[Debug] [2024-1-31 20:29:53] Send cmd [Open config cable:20001] OK
+[Debug] [2024-1-31 20:29:53] End to send initialize chain cmd.
+[Debug] [2024-1-31 20:29:53] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2024-1-31 20:29:54] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2024-1-31 20:29:54] begin the exec of open cable cmd...
+[Debug] [2024-1-31 20:29:54] Begin to deal with chain from server...
+[Debug] [2024-1-31 20:29:54] Begin to set user chain...
+[Debug] [2024-1-31 20:29:54] End to set user chain.
+[Debug] [2024-1-31 20:29:54] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:29:54] End to update graphic item and tree item ...
+[Info] [2024-1-31 20:29:56] set OpenLastPath: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2024-1-31 20:29:56] begin to get device info from CFG file...
+[Debug] [2024-1-31 20:29:56] end to get device info from CFG file...
+[Debug] [2024-1-31 20:29:56] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:29:56] End to update graphic item and tree item ...
+[Debug] [2024-1-31 20:29:56] Begin to update graphic item and tree item ...
+[Debug] [2024-1-31 20:29:56] End to update graphic item and tree item ...
+[Debug] [2024-1-31 20:29:56] End to deal wiht chain from server.
+[Debug] [2024-1-31 20:29:56] end the exec of open cable cmd.
+[Debug] [2024-1-31 20:29:56] COMMAND[Open config cable] execute successfully, takes 3.5 secs.
+[Debug] [2024-1-31 20:29:57] Begin to send programming cmd...
+[Debug] [2024-1-31 20:29:57] Send RPC:4
+[Debug] [2024-1-31 20:29:57] Begin to send program data.
+[Debug] [2024-1-31 20:29:57] End to send program data.
+[Debug] [2024-1-31 20:29:57] Send cmd [Program:20002] OK
+[Debug] [2024-1-31 20:29:58] The value of Progress is 6
+[Debug] [2024-1-31 20:29:58] The value of Progress is 10
+[Debug] [2024-1-31 20:29:58] The value of Progress is 15
+[Debug] [2024-1-31 20:29:58] The value of Progress is 20
+[Debug] [2024-1-31 20:29:59] The value of Progress is 25
+[Debug] [2024-1-31 20:29:59] The value of Progress is 30
+[Debug] [2024-1-31 20:29:59] The value of Progress is 35
+[Debug] [2024-1-31 20:29:59] The value of Progress is 40
+[Debug] [2024-1-31 20:29:59] The value of Progress is 45
+[Debug] [2024-1-31 20:30:00] The value of Progress is 50
+[Debug] [2024-1-31 20:30:00] The value of Progress is 55
+[Debug] [2024-1-31 20:30:00] The value of Progress is 60
+[Debug] [2024-1-31 20:30:00] The value of Progress is 65
+[Debug] [2024-1-31 20:30:00] The value of Progress is 70
+[Debug] [2024-1-31 20:30:01] The value of Progress is 75
+[Debug] [2024-1-31 20:30:01] The value of Progress is 80
+[Debug] [2024-1-31 20:30:01] The value of Progress is 85
+[Debug] [2024-1-31 20:30:01] The value of Progress is 90
+[Debug] [2024-1-31 20:30:01] The value of Progress is 95
+[Debug] [2024-1-31 20:30:02] The value of Progress is 100
+[Debug] [2024-1-31 20:30:02] COMMAND[Program] execute successfully, takes 4.4 secs.
+[Debug] [2024-1-31 20:30:02] End to send programming cmd.
+[Info] [2024-1-31 20:30:37] /***************************End Configration***************************/
+[Info] [2024-2-1 11:11:48] /***************************Start Configuration***************************/
+[Info] [2024-2-1 11:11:48] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-2-1 11:11:48] Version: 132111
+[Info] [2024-2-1 11:11:49] Current Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-2-1 11:11:49] PDS Dir Path: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj
+[Info] [2024-2-1 11:11:59] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-2-1 11:11:59] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2024-2-1 11:11:59] Client Local Address:192.168.1.102
+[Debug] [2024-2-1 11:11:59] Client Local Address:192.168.2.148
+[Debug] [2024-2-1 11:11:59] Server Address:127.0.0.1, Port:65420
+[Info] [2024-2-1 11:12:00] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-2-1 11:12:00] Finish.
+[Info] [2024-2-1 11:12:00] Connect server succeeded
+[Debug] [2024-2-1 11:12:00] Send RPC:1
+[Debug] [2024-2-1 11:12:00] Send cmd [check version information:40004] OK
+[Debug] [2024-2-1 11:12:00] Send RPC:2
+[Debug] [2024-2-1 11:12:00] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-2-1 11:12:00] Begin to send initialize chain cmd...
+[Debug] [2024-2-1 11:12:00] Send RPC:3
+[Debug] [2024-2-1 11:12:00] Send cmd [Open config cable:20001] OK
+[Debug] [2024-2-1 11:12:00] End to send initialize chain cmd.
+[Debug] [2024-2-1 11:12:00] COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2024-2-1 11:12:01] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2024-2-1 11:12:01] begin the exec of open cable cmd...
+[Debug] [2024-2-1 11:12:01] Begin to deal with chain from server...
+[Debug] [2024-2-1 11:12:01] Begin to set user chain...
+[Debug] [2024-2-1 11:12:01] End to set user chain.
+[Debug] [2024-2-1 11:12:01] Begin to update graphic item and tree item ...
+[Debug] [2024-2-1 11:12:01] End to update graphic item and tree item ...
+[Info] [2024-2-1 11:12:06] set OpenLastPath: C:/Users/VIDEO/Desktop/52_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2024-2-1 11:12:06] begin to get device info from CFG file...
+[Debug] [2024-2-1 11:12:06] end to get device info from CFG file...
+[Debug] [2024-2-1 11:12:06] Begin to update graphic item and tree item ...
+[Debug] [2024-2-1 11:12:06] End to update graphic item and tree item ...
+[Debug] [2024-2-1 11:12:06] Begin to update graphic item and tree item ...
+[Debug] [2024-2-1 11:12:06] End to update graphic item and tree item ...
+[Debug] [2024-2-1 11:12:06] End to deal wiht chain from server.
+[Debug] [2024-2-1 11:12:06] end the exec of open cable cmd.
+[Debug] [2024-2-1 11:12:06] COMMAND[Open config cable] execute successfully, takes 6.0 secs.
+[Debug] [2024-2-1 11:12:07] Begin to send programming cmd...
+[Debug] [2024-2-1 11:12:07] Send RPC:4
+[Debug] [2024-2-1 11:12:07] Begin to send program data.
+[Debug] [2024-2-1 11:12:07] End to send program data.
+[Debug] [2024-2-1 11:12:07] Send cmd [Program:20002] OK
+[Debug] [2024-2-1 11:12:08] The value of Progress is 6
+[Debug] [2024-2-1 11:12:08] The value of Progress is 10
+[Debug] [2024-2-1 11:12:08] The value of Progress is 15
+[Debug] [2024-2-1 11:12:08] The value of Progress is 20
+[Debug] [2024-2-1 11:12:08] The value of Progress is 25
+[Debug] [2024-2-1 11:12:09] The value of Progress is 30
+[Debug] [2024-2-1 11:12:09] The value of Progress is 35
+[Debug] [2024-2-1 11:12:09] The value of Progress is 40
+[Debug] [2024-2-1 11:12:09] The value of Progress is 45
+[Debug] [2024-2-1 11:12:09] The value of Progress is 50
+[Debug] [2024-2-1 11:12:10] The value of Progress is 55
+[Debug] [2024-2-1 11:12:10] The value of Progress is 60
+[Debug] [2024-2-1 11:12:10] The value of Progress is 65
+[Debug] [2024-2-1 11:12:10] The value of Progress is 70
+[Debug] [2024-2-1 11:12:10] The value of Progress is 75
+[Debug] [2024-2-1 11:12:11] The value of Progress is 80
+[Debug] [2024-2-1 11:12:11] The value of Progress is 85
+[Debug] [2024-2-1 11:12:11] The value of Progress is 90
+[Debug] [2024-2-1 11:12:11] The value of Progress is 95
+[Debug] [2024-2-1 11:12:11] The value of Progress is 100
+[Debug] [2024-2-1 11:12:12] COMMAND[Program] execute successfully, takes 4.4 secs.
+[Debug] [2024-2-1 11:12:12] End to send programming cmd.
+[Info] [2024-2-1 11:12:54] /***************************End Configration***************************/
+[Info] [2024-2-26 18:07:00] /***************************Start Configuration***************************/
+[Info] [2024-2-26 18:07:00] Path: D:/ywd/pds_2022.2-sp4.2-ads-win64/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-2-26 18:07:00] Version: 132111
+[Info] [2024-2-26 18:07:01] Current Path: E:/H100licheng/50h/52_eth_udp_loop/prj
+[Info] [2024-2-26 18:07:01] PDS Dir Path: E:/H100licheng/50h/52_eth_udp_loop/prj
+[Info] [2024-2-26 18:07:02] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-2-26 18:07:03] Client Local host name:DESKTOP-HN5R6GK
+[Debug] [2024-2-26 18:07:03] Client Local Address:192.168.1.102
+[Debug] [2024-2-26 18:07:03] Client Local Address:192.168.2.148
+[Debug] [2024-2-26 18:07:03] Server Address:127.0.0.1, Port:65420
+[Info] [2024-2-26 18:07:04] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-2-26 18:07:04] Finish.
+[Info] [2024-2-26 18:07:04] Connect server succeeded
+[Debug] [2024-2-26 18:07:04] Send RPC:1
+[Debug] [2024-2-26 18:07:04] Send cmd [check version information:40004] OK
+[Debug] [2024-2-26 18:07:04] Send RPC:2
+[Debug] [2024-2-26 18:07:04] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-2-26 18:07:04] Begin to send initialize chain cmd...
+[Debug] [2024-2-26 18:07:04] Send RPC:3
+[Debug] [2024-2-26 18:07:04] Send cmd [Open config cable:20001] OK
+[Debug] [2024-2-26 18:07:04] End to send initialize chain cmd.
+[Debug] [2024-2-26 18:07:04] COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2024-2-26 18:07:05] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Debug] [2024-2-26 18:07:06] begin the exec of open cable cmd...
+[Debug] [2024-2-26 18:07:06] Begin to deal with chain from server...
+[Debug] [2024-2-26 18:07:06] Begin to set user chain...
+[Debug] [2024-2-26 18:07:06] End to set user chain.
+[Debug] [2024-2-26 18:07:06] Begin to update graphic item and tree item ...
+[Debug] [2024-2-26 18:07:06] End to update graphic item and tree item ...
+[Info] [2024-2-26 18:07:07] set OpenLastPath: E:/H100licheng/50h/52_eth_udp_loop/prj/generate_bitstream/eth_udp_loop.sbit
+[Debug] [2024-2-26 18:07:07] begin to get device info from CFG file...
+[Debug] [2024-2-26 18:07:07] end to get device info from CFG file...
+[Debug] [2024-2-26 18:07:07] Begin to update graphic item and tree item ...
+[Debug] [2024-2-26 18:07:07] End to update graphic item and tree item ...
+[Debug] [2024-2-26 18:07:07] Begin to update graphic item and tree item ...
+[Debug] [2024-2-26 18:07:07] End to update graphic item and tree item ...
+[Debug] [2024-2-26 18:07:07] End to deal wiht chain from server.
+[Debug] [2024-2-26 18:07:07] end the exec of open cable cmd.
+[Debug] [2024-2-26 18:07:07] COMMAND[Open config cable] execute successfully, takes 3.4 secs.
+[Debug] [2024-2-26 18:07:08] Begin to send programming cmd...
+[Debug] [2024-2-26 18:07:08] Send RPC:4
+[Debug] [2024-2-26 18:07:08] Begin to send program data.
+[Debug] [2024-2-26 18:07:08] End to send program data.
+[Debug] [2024-2-26 18:07:08] Send cmd [Program:20002] OK
+[Debug] [2024-2-26 18:07:08] The value of Progress is 6
+[Debug] [2024-2-26 18:07:09] The value of Progress is 10
+[Debug] [2024-2-26 18:07:09] The value of Progress is 15
+[Debug] [2024-2-26 18:07:09] The value of Progress is 20
+[Debug] [2024-2-26 18:07:09] The value of Progress is 25
+[Debug] [2024-2-26 18:07:09] The value of Progress is 30
+[Debug] [2024-2-26 18:07:09] The value of Progress is 35
+[Debug] [2024-2-26 18:07:09] The value of Progress is 40
+[Debug] [2024-2-26 18:07:09] The value of Progress is 45
+[Debug] [2024-2-26 18:07:10] The value of Progress is 50
+[Debug] [2024-2-26 18:07:10] The value of Progress is 55
+[Debug] [2024-2-26 18:07:10] The value of Progress is 60
+[Debug] [2024-2-26 18:07:10] The value of Progress is 65
+[Debug] [2024-2-26 18:07:10] The value of Progress is 70
+[Debug] [2024-2-26 18:07:10] The value of Progress is 75
+[Debug] [2024-2-26 18:07:10] The value of Progress is 80
+[Debug] [2024-2-26 18:07:10] The value of Progress is 85
+[Debug] [2024-2-26 18:07:10] The value of Progress is 90
+[Debug] [2024-2-26 18:07:11] The value of Progress is 95
+[Debug] [2024-2-26 18:07:11] The value of Progress is 100
+[Debug] [2024-2-26 18:07:11] COMMAND[Program] execute successfully, takes 2.7 secs.
+[Debug] [2024-2-26 18:07:11] End to send programming cmd.
+[Info] [2024-2-26 18:07:15] /***************************End Configration***************************/
